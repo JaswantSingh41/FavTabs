@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "demo extension",
+    "version": "1.0.0",
+    "description": "A basic example extension with only required keys",
+    "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "html/popup.html",
+    "default_title": "Grabber for uChicago Canvas!"
+  }
+  }
